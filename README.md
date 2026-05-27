@@ -34,5 +34,3 @@ Accuracy : 33.33%
 pip install scikit-learn
 3. Run the program:
 python support_ticket.py
-## Author
-Your Name
